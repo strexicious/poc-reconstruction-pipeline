@@ -1,0 +1,15 @@
+.controls-wrapper {
+	display: inline-block;
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+.capture-button {
+	color: white;
+	height: auto;
+	width: 50px;
+	margin: 20px 0;
+	cursor: pointer;
+}

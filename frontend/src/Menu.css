@@ -1,0 +1,34 @@
+.menu-wrapper {
+	position: absolute;
+	display: inline-block;
+	top: 10px;
+	right: 10px;
+	cursor: pointer;
+}
+
+.menu-open-button {
+	position: relative;
+	top: 10px;
+	color: white;
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+}
+
+.menu-dropdown {
+	vertical-align: top;
+	background-color: white;
+	list-style: none;
+	padding: 0;
+	width: 150px;
+	text-align: left;
+	display: inline-block;
+}
+
+.menu-dropdown > li {
+	padding: 10px;
+}
+
+.menu-dropdown > li:hover {
+	background-color: rgba(0, 0, 0, 0.1);
+}
