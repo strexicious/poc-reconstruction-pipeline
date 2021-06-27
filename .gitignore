@@ -1,3 +1,6 @@
 *.pyc
 
 images/
+
+log/
+node_modules/
